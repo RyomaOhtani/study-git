@@ -24,3 +24,5 @@ try:
     print("Your zodiac sign is:", zodiac)
 except ValueError:
     print("Invalid input. Please enter a valid birth year.")
+
+# 追記しました
